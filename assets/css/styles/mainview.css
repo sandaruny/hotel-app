@@ -1,0 +1,15 @@
+.app-navigation {
+  margin-top: 50px;
+}
+
+/* Viewport */
+.viewport-wrapper {
+  /* margin: 0px 10px 0px 10px; */
+  margin: 0px;
+}
+.viewport-main {
+  /* float:left; */
+  margin: auto;
+  max-width: 1200px;
+  padding: 10px;
+}

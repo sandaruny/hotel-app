@@ -1,0 +1,15 @@
+.subview {
+  margin-top: 10px;
+}
+
+.subview .subview-header {
+  padding: 10px 0px 10px 0px;
+  font-weight: bold;
+}
+
+.subview .subview-subcategory ul {
+  list-style: none;
+}
+.subview .subview-subcategory ul li {
+  padding: 0px 2px 0px 0px;
+}
